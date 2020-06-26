@@ -1,0 +1,8 @@
+total 52
+drwxrwxr-x 2 ioana ioana  4096 mar 11 18:28 .
+drwxrwxr-x 8 ioana ioana  4096 mar  8 10:41 ..
+-rw-rw-r-- 1 ioana ioana   162 mar  8 10:41 Makefile
+-rw-r--r-- 1 ioana ioana     0 mar 11 18:28 out
+-rwxrwxr-x 1 ioana ioana 17912 mar 11 18:28 tiny
+-rw-rw-r-- 1 ioana ioana  3772 mar 11 18:28 tiny.c
+-rw-rw-r-- 1 ioana ioana 12480 mar 11 18:28 tiny.o

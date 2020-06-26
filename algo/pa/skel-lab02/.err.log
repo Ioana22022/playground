@@ -1,0 +1,34 @@
+
+Running cpp/task-3...
+(score, dl): 20,2
+(score, dl): 10,1
+(score, dl): 10,2
+last deadline2
+========================================
+Running cpp/task-3...
+(score, dl): 20,2
+(score, dl): 20,2
+(score, dl): 10,1
+last deadline2
+========================================
+Running cpp/task-3...
+(score, dl): 50,3
+(score, dl): 40,3
+(score, dl): 30,2
+(score, dl): 30,2
+(score, dl): 10,1
+last deadline3
+========================================
+Running cpp/task-3...
+(score, dl): 7,4
+(score, dl): 6,4
+(score, dl): 5,3
+(score, dl): 4,4
+(score, dl): 3,1
+(score, dl): 3,2
+(score, dl): 3,3
+(score, dl): 2,2
+(score, dl): 1,5
+(score, dl): 1,6
+last deadline6
+========================================
